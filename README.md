@@ -71,7 +71,7 @@ scripts/brand-assets.py --check   # exit 1 if a committed SVG variant is stale
 
 ## Open decisions
 
-- **Licence and use policy for the logo and name.** No decision yet. The project licence, LGPL-3.0-or-later ([ADR-0002](https://github.com/LinuxHello/linux-hello/blob/main/docs/adr/0002-licence-lgpl-3-or-later.md)), covers these files until an ADR says otherwise. A separate asset licence (for example CC BY-SA 4.0) or a trademark-style use policy is a licence and naming decision, so it needs an ADR in linux-hello (invariant 7 of its [AGENTS.md](https://github.com/LinuxHello/linux-hello/blob/main/AGENTS.md#invariants)).
+- **Licence and use policy for the logo and name.** No decision yet. The project licence, LGPL-3.0-or-later ([ADR-0002](https://github.com/LinuxHello/architecture/blob/main/adr/0002-licence-lgpl-3-or-later.md)), covers these files until an ADR says otherwise. A separate asset licence (for example CC BY-SA 4.0) or a trademark-style use policy is a licence and naming decision, so it needs an ADR in [architecture](https://github.com/LinuxHello/architecture) (invariant 7 of its [AGENTS.md](https://github.com/LinuxHello/linux-hello/blob/main/AGENTS.md#invariants)).
 - **A Breeze-style application icon.** The tile is the stopgap (see [applications.md](applications.md#plasma-and-application-icons)).
 
 ## Repository layout
